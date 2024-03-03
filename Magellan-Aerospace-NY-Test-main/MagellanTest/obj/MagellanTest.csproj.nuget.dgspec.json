@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vinub\\OneDrive\\Documents\\projects\\Magellan-Aerospace-NY-Test-main\\Magellan-Aerospace-NY-Test-main\\MagellanTest\\MagellanTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vinub\\OneDrive\\Documents\\projects\\Magellan-Aerospace-NY-Test-main\\Magellan-Aerospace-NY-Test-main\\MagellanTest\\MagellanTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vinub\\OneDrive\\Documents\\projects\\Magellan-Aerospace-NY-Test-main\\Magellan-Aerospace-NY-Test-main\\MagellanTest\\MagellanTest.csproj",
+        "projectName": "MagellanTest",
+        "projectPath": "C:\\Users\\vinub\\OneDrive\\Documents\\projects\\Magellan-Aerospace-NY-Test-main\\Magellan-Aerospace-NY-Test-main\\MagellanTest\\MagellanTest.csproj",
+        "packagesPath": "C:\\Users\\vinub\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinub\\OneDrive\\Documents\\projects\\Magellan-Aerospace-NY-Test-main\\Magellan-Aerospace-NY-Test-main\\MagellanTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vinub\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.419\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
